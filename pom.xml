@@ -14,12 +14,12 @@
 	</properties>
 
 	<modules>
-		<module>..\cryptSearch.app.publish</module>
-		<module>..\cryptSearch.app.search</module>
-		<module>..\cryptSearch.commons</module>
-		<module>..\cryptSearch.lib.publish.local</module>
-		<module>..\cryptSearch.lib.publish.remote</module>
-		<module>..\cryptSearch.lib.search.local</module>
+		<module>cryptSearch.app.publish</module>
+		<module>cryptSearch.app.search</module>
+		<module>cryptSearch.commons</module>
+		<module>cryptSearch.lib.publish.local</module>
+		<module>cryptSearch.lib.publish.remote</module>
+		<module>cryptSearch.lib.search.local</module>
 		
 	</modules>
 
